@@ -46,9 +46,11 @@ namespace EmailCleaner
 
         static void Main(string[] args)
         {
+            System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
+
             // Update these paths to match your specific folder structure
-            string inputDirectory = @"C:\Users\alexs\Desktop\Cleaner\maildir";
-            string outputDirectory = @"C:\Users\alexs\Desktop\Cleaner\cleaned_emails";
+            string inputDirectory = @"C:\Users\alexs\Documents\GitHub\Email_Platform\maildir";
+            string outputDirectory = @"C:\Users\alexs\Documents\GitHub\Email_Platform\output";
 
             int totalProcessed = 0;
             int successful = 0;
