@@ -6,6 +6,7 @@ using Newtonsoft.Json;
 using RabbitMQ.Client;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using RabbitMQ.Client;
 
 namespace EmailCleanerAPI
 {
@@ -32,3 +33,5 @@ namespace EmailCleanerAPI
             return Ok($"Processing completed. Total emails processed: {processedCount}");
         }
     }
+
+}

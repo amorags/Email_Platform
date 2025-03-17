@@ -1,0 +1,8 @@
+C:\Users\alexs\Documents\GitHub\Email_Platform\scrapper\obj\Debug\net9.0\scrapper.csproj.AssemblyReference.cache
+C:\Users\alexs\Documents\GitHub\Email_Platform\scrapper\obj\Debug\net9.0\scrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\Documents\GitHub\Email_Platform\scrapper\obj\Debug\net9.0\scrapper.AssemblyInfoInputs.cache
+C:\Users\alexs\Documents\GitHub\Email_Platform\scrapper\obj\Debug\net9.0\scrapper.AssemblyInfo.cs
+C:\Users\alexs\Documents\GitHub\Email_Platform\scrapper\obj\Debug\net9.0\scrapper.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Documents\GitHub\Email_Platform\scrapper\obj\Debug\net9.0\scrapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexs\Documents\GitHub\Email_Platform\scrapper\obj\Debug\net9.0\scrapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexs\Documents\GitHub\Email_Platform\scrapper\obj\Debug\net9.0\scrapper.sourcelink.json

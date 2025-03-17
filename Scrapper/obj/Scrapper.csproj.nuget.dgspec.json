@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\Scrapper\\Scrapper.csproj": {}
+    "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\scrapper\\scrapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\Scrapper\\Scrapper.csproj": {
+    "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\scrapper\\scrapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\Scrapper\\Scrapper.csproj",
-        "projectName": "Scrapper",
-        "projectPath": "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\Scrapper\\Scrapper.csproj",
+        "projectUniqueName": "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\scrapper\\scrapper.csproj",
+        "projectName": "scrapper",
+        "projectPath": "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\scrapper\\scrapper.csproj",
         "packagesPath": "C:\\Users\\alexs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\Scrapper\\obj\\",
+        "outputPath": "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\scrapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,6 +47,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[7.1.1, )"
             }
           },
           "imports": [

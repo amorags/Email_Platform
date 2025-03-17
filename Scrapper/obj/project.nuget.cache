@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "YLwYylmcTMw=",
+  "dgSpecHash": "olqgpBSHag0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\Scrapper\\Scrapper.csproj",
+  "projectFilePath": "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\scrapper\\scrapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexs\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
-    "C:\\Users\\alexs\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\alexs\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\alexs\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\alexs\\.nuget\\packages\\rabbitmq.client\\7.1.1\\rabbitmq.client.7.1.1.nupkg.sha512",
+    "C:\\Users\\alexs\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\alexs\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
