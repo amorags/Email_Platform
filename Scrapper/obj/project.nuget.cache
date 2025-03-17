@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLwYylmcTMw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexs\\Documents\\GitHub\\Email_Platform\\Scrapper\\Scrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexs\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\alexs\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
